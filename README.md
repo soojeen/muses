@@ -7,3 +7,6 @@
 
 # Web References
 * [HTTP Codes](https://evertpot.com/http/)
+
+# Learning Resources
+* [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out) - Mary Rose Cook
